@@ -1,3 +1,5 @@
+## Hello, My name is Collins Otsieno
+
 ## Data Scientist |Software Engineer | PLP Ambassador 
 
 🌍  I'm based in Nairobi, Kenya  
