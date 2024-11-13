@@ -7,6 +7,8 @@
 ✉️  You can contact me at cotsienoo@gmail.com  
 🧠  I'm learning Web Development  
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=otsienoo)](https://git.io/streak-stats)
+
 ## Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otsienoo)
